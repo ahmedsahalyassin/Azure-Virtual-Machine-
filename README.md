@@ -36,6 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Step 3 Create a Linux (Ubuntu) VM
 
+
    a- While creating the VM, select the previously created Resource Group and Vnet
 
 - Step 4 Observe your Virtual Network within Network Watcher
