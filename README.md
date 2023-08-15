@@ -1,4 +1,4 @@
-# Newproject
+Azure Virtual Machine Creation Step By Step
 New repository for building Microsoft Azure virtual machines
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
