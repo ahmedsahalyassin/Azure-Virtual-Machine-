@@ -42,20 +42,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4 Observe your Virtual Network within Network Watcher
 
 <h2>Actions and Observations</h2>
-![image](https://github.com/ahmedsahalyassin/Newproject/assets/126014105/f6d6cca1-2ec0-49cc-88c2-8305c44dfa31)
 https://i.imgur.com/0lxN1BL.png
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/ahmedsahalyassin/Newproject/assets/126014105/fd90885e-0d1a-40ce-a6ca-199c02a4c40e)
+</p> 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+</
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+https://i.imgur.com/TImCWuc.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
